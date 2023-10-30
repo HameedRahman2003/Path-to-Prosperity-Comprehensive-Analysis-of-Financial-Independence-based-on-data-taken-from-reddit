@@ -15,3 +15,5 @@ Financial Independence, Retire Early (FIRE) is a movement of people devoted to a
 
 Dataset Link - https://drive.google.com/file/d/1axWT879n_zFn2IiCzQbDJkNE8OC95gX4/view?usp=share_link
 
+Demo Link -
+https://youtu.be/yWBqZytE5ss?si=SsdAOn3NfNqlv8tI
