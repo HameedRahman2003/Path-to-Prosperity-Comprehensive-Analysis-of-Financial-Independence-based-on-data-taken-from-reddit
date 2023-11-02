@@ -1,3 +1,7 @@
+#Path to Prosperity:A Comprehensive
+Analysis of Financial Independence
+based on data taken from reddit
+
 Team Description
 
 Team id - NM2023TMID05078
